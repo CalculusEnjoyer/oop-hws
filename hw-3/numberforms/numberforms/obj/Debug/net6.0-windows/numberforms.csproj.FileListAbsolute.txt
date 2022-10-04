@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\numberforms\numberforms\bin\Debug\net6.0-windows\numberforms.exe
+C:\Users\Lenovo\source\repos\numberforms\numberforms\bin\Debug\net6.0-windows\numberforms.deps.json
+C:\Users\Lenovo\source\repos\numberforms\numberforms\bin\Debug\net6.0-windows\numberforms.runtimeconfig.json
+C:\Users\Lenovo\source\repos\numberforms\numberforms\bin\Debug\net6.0-windows\numberforms.dll
+C:\Users\Lenovo\source\repos\numberforms\numberforms\bin\Debug\net6.0-windows\numberforms.pdb
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.Form1.resources
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.dll
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\refint\numberforms.dll
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.pdb
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\numberforms.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\numberforms\numberforms\obj\Debug\net6.0-windows\ref\numberforms.dll
