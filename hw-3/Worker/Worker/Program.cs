@@ -22,20 +22,19 @@
 
             Developer newDev = new Developer(name);
             newDev.SetWorkDay(workDay);
-
             team.AddWorker(newDev);
+            
             System.Console.WriteLine("Adding manager...");
-
             System.Console.Out.WriteLine("Enter name: ");
             name = Console.ReadLine();
             System.Console.Out.WriteLine("Enter work day: ");
             workDay = Console.ReadLine();
 
             Manager newMan = new(name);
-            newDev.SetWorkDay(workDay);
+            newMan.SetWorkDay(workDay);
 
 
-            team.AddWorker(newDev);
+            team.AddWorker(newMan);
 
             System.Console.WriteLine("=======================");
             team.ShowWorkersNames();

@@ -26,6 +26,6 @@ namespace numberforms
         {
             string number = textBox1.Text;
             MessageBox.Show(number);
-        }s
+        }
     }
 }
