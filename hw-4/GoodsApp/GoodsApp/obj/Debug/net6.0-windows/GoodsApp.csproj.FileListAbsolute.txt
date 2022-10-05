@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\bin\Debug\net6.0-windows\GoodsApp.exe
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\bin\Debug\net6.0-windows\GoodsApp.deps.json
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\bin\Debug\net6.0-windows\GoodsApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\bin\Debug\net6.0-windows\GoodsApp.dll
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\bin\Debug\net6.0-windows\GoodsApp.pdb
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.GoodForm.resources
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.dll
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\refint\GoodsApp.dll
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.pdb
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\GoodsApp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\GoodsApp\GoodsApp\obj\Debug\net6.0-windows\ref\GoodsApp.dll
