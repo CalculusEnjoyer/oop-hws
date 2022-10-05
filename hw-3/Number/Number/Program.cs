@@ -4,7 +4,7 @@
     {
         int n;
         System.Console.Write("Enter number: ");
-        n = Convert.ToInt32(System.Console.ReadLine());
+        if(!int.TryParse(System.Console.ReadLine(), out n)) throw new ArgumentException("Please nter number");
         System.Console.WriteLine("Your number: " + n);
     }
 }

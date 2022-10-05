@@ -25,7 +25,7 @@ namespace Worker
         public void ShowWorkersNames()
         {
             System.Console.WriteLine("Team name: " + this._teamName);
-            foreach(Worker worker in _workers)
+            foreach (Worker worker in _workers)
             {
                 System.Console.WriteLine(worker.GetName());
             }
@@ -36,8 +36,8 @@ namespace Worker
             System.Console.WriteLine("Team name: " + this._teamName);
             foreach (Worker worker in _workers)
             {
-                System.Console.Write(worker.GetName()+"-");
-                System.Console.Write(worker.GetPosition()+ "-");
+                System.Console.Write(worker.GetName() + "-");
+                System.Console.Write(worker.GetPosition() + "-");
                 System.Console.WriteLine(worker.GetWorkDay());
             }
         }

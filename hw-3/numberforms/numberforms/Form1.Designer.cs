@@ -49,7 +49,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(241, 23);
             this.textBox1.TabIndex = 1;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -59,7 +58,6 @@
             this.label1.Size = new System.Drawing.Size(83, 15);
             this.label1.TabIndex = 2;
             this.label1.Text = "Введіть число";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 
@@ -71,7 +69,6 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

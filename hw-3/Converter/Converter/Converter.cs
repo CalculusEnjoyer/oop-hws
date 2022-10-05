@@ -17,28 +17,29 @@ namespace Converter
             _euroToUah = euroToUah;
         }
 
-        public decimal ConvertUahToUsd(decimal uah)
+        public decimal ConvertUsdToUah(decimal uah)
         {
             return uah * _usdToUah;
         }
 
-        public decimal ConvertUahToEuro(decimal uah)
+        public decimal ConvertEuroToUah(decimal uah)
         {
             return uah * _euroToUah;
         }
 
-        public decimal ConvertEuroToUah(decimal euro)
+        public decimal ConvertUahToEuro(decimal euro)
         {
             if (euro == 0)
             {
                 return 0;
-            } else
+            }
+            else
             {
                 return euro / _euroToUah;
             }
         }
 
-        public decimal ConvertUsdToUah(decimal usd)
+        public decimal ConvertUahToUsd(decimal usd)
         {
             if (usd == 0)
             {
