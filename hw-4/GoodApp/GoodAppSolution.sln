@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsApp", "GoodsApp\GoodsApp.csproj", "{5661FE21-558D-451D-8E02-913FEEFB13D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodForm", "WinFormsApp1\GoodForm.csproj", "{3D0163B2-57B6-4D65-9062-E948F53B081E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5661FE21-558D-451D-8E02-913FEEFB13D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5661FE21-558D-451D-8E02-913FEEFB13D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5661FE21-558D-451D-8E02-913FEEFB13D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5661FE21-558D-451D-8E02-913FEEFB13D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0163B2-57B6-4D65-9062-E948F53B081E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0163B2-57B6-4D65-9062-E948F53B081E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0163B2-57B6-4D65-9062-E948F53B081E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0163B2-57B6-4D65-9062-E948F53B081E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {206A64C1-956C-4FDC-8855-9F4525B647DD}
+		SolutionGuid = {9EE0DC9E-B74A-4116-B366-5C595F7F635D}
 	EndGlobalSection
 EndGlobal
